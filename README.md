@@ -7,8 +7,6 @@ I'm Hrushika Papani, a **Cloud and DevOps Engineer** with over 4 years of experi
 
 ## 🚀 What I Do
 
-## 🚀 What I Do
-
 * ☁️ **Cloud Infrastructure Engineering:** Experienced in designing, deploying, and managing infrastructure on **AWS** and **Azure**, including services like **EC2**, **S3**, **Lambda**, **EKS**, **RDS**, **IAM**, **Route 53**, **VPC**, **CloudFormation**, **AKS**, and **Virtual Networks**.
 
 * 🛠️ **Infrastructure as Code (IaC):** Proficient in using **Terraform**, **AWS CloudFormation**, **Ansible**, **Chef**, and **Pulumi** to automate and standardize infrastructure provisioning, with strong emphasis on **modular design** and **state management**.
