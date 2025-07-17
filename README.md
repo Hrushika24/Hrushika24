@@ -44,7 +44,6 @@ I'm Hrushika Papani, a **Cloud and DevOps Engineer** with over 4 years of experi
 
 ## 📫 Get In Touch
 
-* **Email:** hrushikapapani2407@outlook.com
 * **LinkedIn:** [https://www.linkedin.com/in/hrushika-papani-b3ba8a1b8/](https://www.linkedin.com/in/hrushika-p)
 * **GitHub:** [https://github.com/Hrushika24](https://github.com/Hrushika24)
 
