@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm Hrushika Papani, a **Cloud and DevOps Engineer** with over 4 years of experience in designing, automating, and securing scalable infrastructure across **AWS** and **Azure** environments. With a **Master’s in Computer Science** from the University of Missouri–Kansas City, I specialize in **Infrastructure as Code (IaC)** using **Terraform** and **CloudFormation**, container orchestration with **Kubernetes (EKS, AKS)**, and **CI/CD automation** using **Jenkins**, **GitHub Actions**, and **GitLab**. My background includes large-scale **cloud migrations**, **cost optimization**, **system hardening**, and **monitoring** using tools like **Prometheus**, **Grafana**, **Datadog**, and **CloudWatch**. I have supported **enterprise-grade environments** by ensuring compliance, leading **incident response**, and improving **deployment reliability** through automation and collaboration.
+I'm Hrushika, a **Cloud and DevOps Engineer** with over 4 years of experience in designing, automating, and securing scalable infrastructure across **AWS** and **Azure** environments. With a **Master’s in Computer Science** from the University of Missouri–Kansas City, I specialize in **Infrastructure as Code (IaC)** using **Terraform** and **CloudFormation**, container orchestration with **Kubernetes (EKS, AKS)**, and **CI/CD automation** using **Jenkins**, **GitHub Actions**, and **GitLab**. My background includes large-scale **cloud migrations**, **cost optimization**, **system hardening**, and **monitoring** using tools like **Prometheus**, **Grafana**, **Datadog**, and **CloudWatch**. I have supported **enterprise-grade environments** by ensuring compliance, leading **incident response**, and improving **deployment reliability** through automation and collaboration.
 
 
 ---
@@ -44,7 +44,7 @@ I'm Hrushika Papani, a **Cloud and DevOps Engineer** with over 4 years of experi
 
 ## 📫 Get In Touch
 
-* **LinkedIn:** [https://www.linkedin.com/in/hrushika-papani-b3ba8a1b8/](https://www.linkedin.com/in/hrushika-p)
+* **LinkedIn:** [https://www.linkedin.com/in/hrushika-p](https://www.linkedin.com/in/hrushika-p)
 * **GitHub:** [https://github.com/Hrushika24](https://github.com/Hrushika24)
 
-I'm always excited to connect with fellow tech enthusiasts and explore new opportunities in the cloud, DevOps, and MLOps spaces. Feel free to reach out!
+I'm always excited to connect with fellow tech enthusiasts and explore new opportunities in the cloud, DevOps spaces. Feel free to reach out!
