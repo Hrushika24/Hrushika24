@@ -37,8 +37,7 @@ I'm Hrushika, a **Cloud and DevOps Engineer** with over 4 years of experience in
 
 ## 🌱 I'm Currently Exploring
 
-* Advancing my experience with Machine Learning models by diving into **MLOps** to streamline and automate ML lifecycles.
-* Deepening my expertise in building and managing applications across **multi-cloud environments**, focusing on interoperability and cost optimization.
+* I'm currently focused on deepening my expertise in **Site Reliability Engineering (SRE)** practices, **cloud security**, and **observability tooling** to build more resilient and secure systems. I'm also expanding my knowledge in **big data services** and **multi-cloud infrastructure**, with a strong emphasis on automation, performance, and compliance across **AWS** and **Azure** platforms.
 
 ---
 
@@ -47,4 +46,4 @@ I'm Hrushika, a **Cloud and DevOps Engineer** with over 4 years of experience in
 * **LinkedIn:** [https://www.linkedin.com/in/hrushika-p](https://www.linkedin.com/in/hrushika-p)
 * **GitHub:** [https://github.com/Hrushika24](https://github.com/Hrushika24)
 
-I'm always excited to connect with fellow tech enthusiasts and explore new opportunities in the cloud, DevOps spaces. Feel free to reach out!
+I'm always excited to connect with fellow tech enthusiasts and explore new opportunities in the Cloud and DevOps space. Feel free to reach out!
